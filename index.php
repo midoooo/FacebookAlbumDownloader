@@ -16,7 +16,7 @@
 <script src="bootstrap/js/bootstrap.min.js"></script>
 
 <!-- Custom CSS -->
-<script src="css/styles.css"></script>
+<link rel="stylesheet" href="css/styles.css">
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
